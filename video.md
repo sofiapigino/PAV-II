@@ -4,9 +4,7 @@ _Video explicativo del tema Design Thinking en el contexto de la unidad 2_
 
 ## Enlace Video Youtube 📹
 
-```
 [Video Design thinking](https://www.youtube.com/watch?v=c4dcbWeytCw&feature=youtu.be)
-```
 
 ## Autores ✒️
 
